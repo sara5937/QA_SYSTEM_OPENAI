@@ -1,0 +1,13 @@
+langchain 
+
+langchain-community
+
+pypdf
+python-dotenv
+IPython
+streamlit
+langchain-chroma
+sentence-transformers
+langchain-openai
+-e .
+
