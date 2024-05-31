@@ -14,9 +14,7 @@ def Data_loading(filename):
     #loading the PDF files
     try:
         logging.info("data loading started...")
-        #loader = PyPDFLoader("D:/MLOPS_END_PROJECT/LLM_PROJECT/New folder/QA-System-Gemini/data/Medical_book.pdf")
-        #loader  = PyPDFLoader("D:/MLOPS_END_PROJECT/LLM_PROJECT/New folder/QA-System-Gemini/data/Medical_book.pdf")
-        #loader  = PyPDFLoader(filename)
+
        
         
     
